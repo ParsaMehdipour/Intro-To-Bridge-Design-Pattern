@@ -22,3 +22,6 @@ The abstraction may list the same methods as the implementation, but usually the
 4. Refined Abstractions provide variants of control logic. Like their parent, they work with different implementations via the general implementation interface.
 
 5. Usually, the Client is only interested in working with the abstraction. However, it’s the client’s job to link the abstraction object with one of the implementation objects
+
+Image and Description source: Dive Into DESIGN PATTERNS by Alexander Shvets <br/>
+Link to the book : https://refactoring.guru/design-patterns/book
